@@ -149,3 +149,47 @@ index=main "4688"
 ## Project Status
 
 - Active SOC investigation and ATT&CK mapping learning project focused on incident reporting and analytical workflows.
+
+---
+
+## Screenshots
+
+### Successful Authentication Analysis
+
+![Successful Authentication Analysis](screenshots/successful_authentication_analysis.png)
+
+---
+
+### Failed Authentication Monitoring
+
+![Failed Authentication Monitoring](screenshots/failed_authentication_monitoring.png)
+
+---
+
+### Privileged Logon Monitoring
+
+![Privileged Logon Monitoring](screenshots/privileged_logon_monitoring.png)
+
+---
+
+### Process Creation Investigation
+
+![Process Creation Investigation](screenshots/process_creation_investigation.png)
+
+---
+
+### Suspicious PowerShell Hunting
+
+![Suspicious PowerShell Hunting](screenshots/suspicious_powershell_hunting.png)
+
+---
+
+### Authentication Timeline Analysis
+
+![Authentication Timeline Analysis](screenshots/authentication_timeline_analysis.png)
+
+---
+
+### Process Activity Timeline
+
+![Process Activity Timeline](screenshots/process_activity_timeline.png)
